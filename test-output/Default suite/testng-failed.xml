@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.BusinessLogic.Build_B01_LoginStory">
+      <class name="whyPom.Why_Pom_Test">
         <methods>
-          <include name="login_test"/>
+          <include name="refreshPage"/>
         </methods>
-      </class> <!-- com.BusinessLogic.Build_B01_LoginStory -->
+      </class> <!-- whyPom.Why_Pom_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
